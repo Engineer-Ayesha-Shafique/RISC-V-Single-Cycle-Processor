@@ -1,4 +1,3 @@
-# learningRISC-V
 ![logo](https://riscv.org/wp-content/uploads/2018/06/RISC-V-Logo-2.png)
 _________________
 
