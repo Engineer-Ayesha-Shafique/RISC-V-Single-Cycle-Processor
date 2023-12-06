@@ -1,2 +1,8 @@
-/work
+# ignoring compilation files
+
 transcript
+work/
+
+#ignoring simulation files
+
+processor.vcd
