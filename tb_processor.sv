@@ -29,14 +29,14 @@ module tb_processor();
         #150;
 
         //Test case : For conditional jumps: 
-        $display("x2: %h", dut.reg_file_i.reg_mem[2]);
+        // $display("x2: %h", dut.reg_file_i.reg_mem[2]);
 
         //For storing 32bit immediate in register
         // $display("x6: %h", dut.reg_file_i.reg_mem[6]);
         // $display("x7: %h", dut.reg_file_i.reg_mem[7]);
 
         //For finding a gcd of two numbers
-        // $display("GCD of 12 and 9: x9: %h", dut.reg_file_i.reg_mem[9]);
+        $display("GCD of 12 and 9: x9: %h", dut.reg_file_i.reg_mem[8]);
 
         //load store
         // $display ("x10: %h", dut.reg_file_i.reg_mem[10]);

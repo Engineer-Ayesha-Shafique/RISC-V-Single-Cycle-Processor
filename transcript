@@ -1,5 +1,5 @@
 # vsim -c tb_processor -do "run -all" 
-# Start time: 14:57:00 on Oct 23,2023
+# Start time: 19:45:15 on Dec 06,2023
 # Loading sv_std.std
 # Loading work.tb_processor
 # Loading work.processor
@@ -17,20 +17,20 @@
 # run -all
 # I-Type
 # 
-# R-Type
-# 
-# I-Type
+# Branch
 # 
 # Branch
 # 
 # R-Type
 # 
-# I-Type
+# JAL
 # 
 # Branch
 # 
-# x2: 00000003
+# JAL
+# 
+# GCD of 12 and 9: x9: 00000003
 # ** Note: $finish    : tb_processor.sv(43)
 #    Time: 160 ps  Iteration: 0  Instance: /tb_processor
-# End time: 14:57:00 on Oct 23,2023, Elapsed time: 0:00:00
+# End time: 19:45:16 on Dec 06,2023, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
